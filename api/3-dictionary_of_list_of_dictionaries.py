@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Export the tasks of all employees to a single JSON file, using a REST API."""
+"""Export the tasks of all employees to a JSON file."""
 import json
 import requests
 
